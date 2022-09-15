@@ -135,3 +135,11 @@ body{
     letter-spacing: 0.03em;
     font-style: italic;
 }
+
+.card-allData{
+    position: relative;
+    top: -5rem;
+    --bs-card-bg: rgba(255,255,255,0);
+    margin-bottom: -5rem;
+    width: 80%;
+}
