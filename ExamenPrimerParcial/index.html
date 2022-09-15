@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Examen primer parcial</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://kit.fontawesome.com/101326ea39.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md py-3">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="#">
+                <span class="bs-icon-sm bs-icon-rounded d-flex justify-content-center align-items-center me-2 bs-icon">
+                    <img class="img-nav-logo" src="assets/img/clipboard-image.png">
+                </span>
+                <span style="margin-left: 1rem;">LOL Champions</span>
+            </a>
+            <button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2">
+                <span class="visually-hidden">Toggle navigation</span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navcol-2">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <span class="nav-link">API rest</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container py-4 py-xl-5">
+        <div class="row mb-5">
+            <div class="col-md-8 col-xl-6 text-center mx-auto">
+                <p class="w-lg-50 text-light">Ingresa el nombre del campeón</p>
+                <input type="text" id="championName" placeholder="Ingresa el nombre del campeón" class="form-control">
+                <input type="hidden" id="championId" value="0" />
+            </div>
+            <div class="col-md-8 col-xl-6 text-center mx-auto column-icons" style="width: 33.3333%; margin: auto;">
+                <div class="row">
+                    <div class="col" style="display: flex;justify-content: center;">
+                        <button class="btn btn-primary btn-icons" type="button" id="btnSearch">
+                            <i class="fas fa-search" style="font-size: 50px;"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row gy-4 row-cols-1 row-cols-md-2 row-cols-xl-3 justify-content-center">
+            <div class="col" style="width: 100%;">
+                <div class="row">
+                    <div class="col">
+                        <div class="card" style="max-height: 500px;height: 100%;" id="champdisplay-container">
+                            <img src="imgs/summoner.jpg" alt="Champdisplay" style="height: 100%; object-fit: contain; "
+                                class="card-img-top w-100 d-block fit-cover">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col" style="justify-content: center; display: flex;">
+                        <div class="card" style="width: 60%;">
+                            <div class="card-body align-items-center p-4" style="text-align: center;height: 100%;">
+                                <div id="championNickname" class="nicknameFont"></div>
+                                <h4 id="championNameResult" class="card-title nameFont"></h4>
+                                <div id="championLore" style="text-align: justify;"></div>
+                                <h4 class="card-title" style="margin-top: 2rem;font-size: 18px;">Tipo de campeón</h4>
+                                <div id="championType"></div>
+                                <h4 class="card-title" style="margin-top: 3rem;font-size: 18px;">Estadísticas base</h4>
+                                <div class="table-responsive" style="overflow-x: hidden;">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th style="color: white;">HP</th>
+                                                <th style="color: white;">Mana</th>
+                                                <th style="color: white;">Movement speed</th>
+                                                <th style="color: white;">Armor</th>
+                                                <th style="color: white;">Damage</th>
+                                                <th style="color: white;">Attack speed</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="championStats">
+                                            <tr>
+                                                <td id="championStatHp" class="grafics">0</td>
+                                                <td id="championStatMana" class="grafics">0</td>
+                                                <td id="championStatMovementSpeed" class="grafics">0</td>
+                                                <td id="championStatArmor" class="grafics">0</td>
+                                                <td id="championStatDamage" class="grafics">0</td>
+                                                <td id="championStatAttackSpeed" class="grafics">0</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <div class="row center-flex">
+                                        <div class="row-element">
+                                            Habilidades:
+                                            <ul id="championAbilities"></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <footer class="text-center py-4 footer-lol">
+        <div class="container">
+            <div class="row row-cols-1 row-cols-lg-3">
+                <div class="col">
+                    <p class="text-muted my-2">Sin Copyright 2022 García Gómez Jaret Xchel</p>
+                </div>
+                <div class="col">
+                    <ul class="list-inline my-2">
+                        <li class="list-inline-item me-4"><a
+                                href="https://github.com/P0T4TO1/5IV7_GarciaGomezJaretXchel_AP" target="_blank">
+                                <div class="bs-icon-circle bs-icon-primary bs-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                        viewBox="0 0 16 16" class="bi bi-github">
+                                        <path
+                                            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z">
+                                        </path>
+                                    </svg>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/lolAPI.js" type="text/javascript"></script>
+</body>
+
+</html>
