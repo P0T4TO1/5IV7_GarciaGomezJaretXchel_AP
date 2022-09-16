@@ -104,13 +104,13 @@ const champsAPI = () => {
 
     const processChampionAbilities = (championData) => {
         let championAbilitiesName = "";
-        let championAbilitiesDescription = "";
+        //let championAbilitiesDescription = "";
         championData.spells?.forEach((championAbility) => {
             championAbilitiesName += `<li>${championAbility.id}: ${championAbility.name}</li>`;
-            championAbilitiesDescription += `<li>${championAbility.id}: ${championAbility.name}</li>`;
+            //championAbilitiesDescription += `<li>${championAbility.id}: ${championAbility.name}</li>`;
         });
         containers.championAbilitiesElement.innerHTML = championAbilitiesName;
-        containers.championAbilitiesDescription.innerHTML = championAbilitiesDescription;
+        //containers.championAbilitiesDescription.innerHTML = championAbilitiesDescription;
     };
 
     const setLoading = () => {
