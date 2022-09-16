@@ -140,8 +140,9 @@ const champsAPI = () => {
             setLoading();
 
             const championData = await getChampionData(
-                typeof championName === typeof "" ? championName : championName
+                typeof championName === typeof "" ? championName[0].toUpperCase() + championName.slice(1) : championName
             );
+            console.log(championName[0].toUpperCase() + championName.slice(1))
             if (championData.requestFailed) {
                 containers.imageContainer.innerHTML = imageTemplate.replace(
                     "{imgSrc}",
