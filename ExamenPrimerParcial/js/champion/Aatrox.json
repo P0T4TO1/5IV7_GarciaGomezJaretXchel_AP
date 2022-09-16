@@ -163,7 +163,7 @@
             "range": [25000, 25000, 25000, 25000, 25000],
             "rangeBurn": "25000",
             "image": {
-                "full": "AatroxQ.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/12.17.1/img/spell/AatroxQ.png",
                 "sprite": "spell0.png",
                 "group": "spell",
                 "x": 288,
@@ -223,7 +223,7 @@
             "range": [825, 825, 825, 825, 825],
             "rangeBurn": "825",
             "image": {
-                "full": "AatroxW.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/12.17.1/img/spell/AatroxW.png",
                 "sprite": "spell0.png",
                 "group": "spell",
                 "x": 336,
@@ -288,7 +288,7 @@
             "range": [25000, 25000, 25000, 25000, 25000],
             "rangeBurn": "25000",
             "image": {
-                "full": "AatroxE.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/12.17.1/img/spell/AatroxE.png",
                 "sprite": "spell0.png",
                 "group": "spell",
                 "x": 384,
@@ -370,7 +370,7 @@
         "name": "Heraldo de la Destrucción",
         "description": "Cada cierto tiempo, el siguiente ataque básico de Aatrox inflige <physicalDamage>daño físico</physicalDamage> adicional según la vida máxima del objetivo, y lo cura por la cantidad de daño infligido. ",
         "image": {
-            "full": "Aatrox_Passive.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/12.17.1/img/passive/Aatrox_Passive.png",
             "sprite": "passive0.png",
             "group": "passive",
             "x": 0,

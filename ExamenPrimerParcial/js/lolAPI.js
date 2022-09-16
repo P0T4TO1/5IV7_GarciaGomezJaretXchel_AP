@@ -28,7 +28,7 @@ const champsAPI = () => {
         championTitleElement : document.getElementById("championNickname"),
         championLoreElement : document.getElementById("championLore"),
         championAbilitiesElement: document.getElementById("championAbilities"),
-        cahmpionNicknameElement : document.getElementById("championNickname"),
+        championNicknameElement : document.getElementById("championNickname"),
         tagImageElement : document.getElementById("typeImgContainer"),
     };
 
@@ -103,11 +103,14 @@ const champsAPI = () => {
     };
 
     const processChampionAbilities = (championData) => {
-        let championAbilitiesContent = "";
+        let championAbilitiesName = "";
+        let championAbilitiesDescription = "";
         championData.spells?.forEach((championAbility) => {
-            championAbilitiesContent += `<li>${championAbility.id}: ${championAbility.name}</li>`;
+            championAbilitiesName += `<li>${championAbility.id}: ${championAbility.name}</li>`;
+            championAbilitiesDescription += `<li>${championAbility.id}: ${championAbility.name}</li>`;
         });
-        containers.championAbilitiesElement.innerHTML = championAbilitiesContent;
+        containers.championAbilitiesElement.innerHTML = championAbilitiesName;
+        containers.championAbilitiesDescription.innerHTML = championAbilitiesDescription;
     };
 
     const setLoading = () => {
@@ -151,7 +154,7 @@ const champsAPI = () => {
                 containers.championNameElement.innerHTML = championData.name.toUpperCase();
                 containers.championIdElement.value = championData.id;
                 containers.championLoreElement.innerHTML = championData.lore;
-                containers.cahmpionNicknameElement.innerHTML = championData.title.toUpperCase();
+                containers.championNicknameElement.innerHTML = championData.title.toUpperCase();
 
                 processChampionTag(championData);
                 processChampionStats(championData);
