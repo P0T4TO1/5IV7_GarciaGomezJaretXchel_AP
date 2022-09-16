@@ -29,6 +29,7 @@ const champsAPI = () => {
         championLoreElement : document.getElementById("championLore"),
         championAbilitiesElement: document.getElementById("championAbilities"),
         cahmpionNicknameElement : document.getElementById("championNickname"),
+        tagImageElement : document.getElementById("typeImgContainer"),
     };
 
     const buttons = {
@@ -40,13 +41,30 @@ const champsAPI = () => {
 
     const processChampionTag = (championData) => {
         let championTag = "";
+        let tagImage = "";
 
         const firstClass = championData.tags[0];
-        const secondClass = championData.lore;
 
-        championData.tags.forEach((champTagData) => {
-            championTag += `<span class="champion-type ${champTagData}"> ${champTagData}</span>`;
-        });
+            //championTag += `<span class="champion-type ${champTagData}"> ${champTagData}</span>`;
+            if(championData.tags[0] == "Fighter"){
+                tagImage += `<img class="tag-img" src="./imgs/fighter.png">`
+                championTag += `<span class="champion-type "> Peleador </span>`;
+            }if(championData.tags[0] == "Support"){
+                tagImage += `<img class="tag-img" src="./imgs/support.png">`
+                championTag += `<span class="champion-type "> Soporte </span>`;
+            }if(championData.tags[0] == "Mage"){
+                tagImage += `<img class="tag-img" src="./imgs/mage.png">`
+                championTag += `<span class="champion-type "> Mago </span>`;
+            }if(championData.tags[0] == "Marksman"){
+                tagImage += `<img class="tag-img" src="./imgs/tirador.png">`
+                championTag += `<span class="champion-type "> Tirador </span>`;
+            }if(championData.tags[0] == "Assassin"){
+                tagImage += `<img class="tag-img" src="./imgs/assasin.png">`
+                championTag += `<span class="champion-type "> Asesino </span>`;
+            }if(championData.tags[0] == "Tank"){
+                tagImage += `<img class="tag-img" src="./imgs/tank.png">`
+                championTag += `<span class="champion-type "> Tanque </span>`;
+            };
 
         if (currentClassType) {
             containers.championAbilitiesElement.classList.remove(
@@ -57,29 +75,31 @@ const champsAPI = () => {
         containers.championAbilitiesElement.classList.add(firstClass);
         currentClassType = firstClass;
         containers.championTypesContainer.innerHTML = championTag;
+        containers.tagImageElement.innerHTML = tagImage;
+        
     };
 
     const processChampionStats = (championData) => {
         championStatsElements.hp.innerHTML = championData.stats.hp;
-        championStatsElements.hp.style = `background: linear-gradient(0deg, rgba(0,118,255,1) ${championData.stats.hp}%, rgba(255,255,255, 0.9) ${championData.stats.hp}%); `;
+        championStatsElements.hp.style = `background: linear-gradient(0deg, #2196f3 ${championData.stats.hp}%, rgba(0,0,0,1) ${championData.stats.hp}%); `;
 
         championStatsElements.mp.innerHTML = championData.stats.mp;
-        championStatsElements.mp.style = `background: linear-gradient(0deg, rgba(0,118,255,1) ${championData.stats.mp}%, rgba(255,255,255, 0.9) ${championData.stats.mp}%); `;
+        championStatsElements.mp.style = `background: linear-gradient(0deg, #2196f3 ${championData.stats.mp}%, rgba(0,0,0,1) ${championData.stats.mp}%); `;
 
         championStatsElements.movespeed.innerHTML =
             championData.stats.movespeed;
-        championStatsElements.movespeed.style = `background: linear-gradient(0deg, rgba(0,118,255,1) ${championData.stats.movespeed}%, rgba(255,255,255, 0.9) ${championData.stats.movespeed}%); `;
+        championStatsElements.movespeed.style = `background: linear-gradient(0deg, #2196f3 ${championData.stats.movespeed}%, rgba(0,0,0,1) ${championData.stats.movespeed}%); `;
 
         championStatsElements.armor.innerHTML = championData.stats.armor;
-        championStatsElements.armor.style = `background: linear-gradient(0deg, rgba(0,118,255,1) ${championData.stats.armor}%, rgba(255,255,255, 0.9) ${championData.stats.armor}%); `;
+        championStatsElements.armor.style = `background: linear-gradient(0deg, #2196f3 ${championData.stats.armor}%, rgba(0,0,0,1) ${championData.stats.armor}%); `;
 
         championStatsElements.damage.innerHTML =
             championData.stats.attackdamage;
-        championStatsElements.damage.style = `background: linear-gradient(0deg, rgba(0,118,255,1) ${championData.stats.attackdamage}%, rgba(255,255,255, 0.9) ${championData.stats.attackdamage}%); `;
+        championStatsElements.damage.style = `background: linear-gradient(0deg, #2196f3 ${championData.stats.attackdamage}%, rgba(0,0,0,1) ${championData.stats.attackdamage}%); `;
 
         championStatsElements.attackspeed.innerHTML =
             championData.stats.attackspeed;
-        championStatsElements.attackspeed.style = `background: linear-gradient(0deg, rgba(0,118,255,1) ${championData.stats.attackspeed}%, rgba(255,255,255, 0.9) ${championData.stats.attackspeed}%); `;
+        championStatsElements.attackspeed.style = `background: linear-gradient(0deg, #2196f3 ${championData.stats.attackspeed}%, rgba(0,0,0,1) ${championData.stats.attackspeed}%); `;
     };
 
     const processChampionAbilities = (championData) => {
