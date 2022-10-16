@@ -8,8 +8,9 @@
 import { NativeRouter, Routes, Route } from "react-router-native";
 
 //nuestras ventanas
-import Profile from "./screens/Profile";
+import Profile from "./screens/Recipe";
 import Home from "./screens/Home";
+import Recipe from "./screens/Recipe";
 
 
 //import SimpleState from "./components/functional/SimpleState";
@@ -21,7 +22,7 @@ import Home from "./screens/Home";
         <NativeRouter>
             <Routes>
                 <Route path="/" element={<Home/>}></Route>
-                <Route path="/receta/:name" element={<Profile/>}></Route>
+                <Route path="/receta/:id" element={<Recipe/>}></Route>
             </Routes>
         </NativeRouter>
     );

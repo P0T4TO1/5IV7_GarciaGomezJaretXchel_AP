@@ -21,7 +21,8 @@
     "react-router-native": "^6.4.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "prettier": "2.7.1"
   },
   "private": true
 }

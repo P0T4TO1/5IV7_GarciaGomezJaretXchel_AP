@@ -1,0 +1,680 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": true,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "lowFodmap": false,
+  "weightWatcherSmartPoints": 32,
+  "gaps": "no",
+  "preparationMinutes": -1,
+  "cookingMinutes": -1,
+  "aggregateLikes": 124,
+  "healthScore": 100,
+  "creditsText": "afrolems.com",
+  "sourceName": "afrolems.com",
+  "pricePerServing": 355.78,
+  "extendedIngredients": [
+    {
+      "id": 10211821,
+      "aisle": "Produce",
+      "image": "bell-pepper-orange.png",
+      "consistency": "SOLID",
+      "name": "bell peppers",
+      "nameClean": "bell pepper",
+      "original": "Bell Peppers for garnishing",
+      "originalName": "Bell Peppers for garnishing",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [
+        "for garnishing"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 5006,
+      "aisle": "Meat",
+      "image": "whole-chicken.jpg",
+      "consistency": "SOLID",
+      "name": "chicken",
+      "nameClean": "whole chicken",
+      "original": "1.5 cups of Chopped Chicken",
+      "originalName": "Chopped Chicken",
+      "amount": 1.5,
+      "unit": "cups",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 354.882,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 4582,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vegetable-oil.jpg",
+      "consistency": "LIQUID",
+      "name": "cooking oil",
+      "nameClean": "cooking oil",
+      "original": "2.5 Cooking spoons of oil",
+      "originalName": "Cooking spoons of oil",
+      "amount": 2.5,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.5,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2.5,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 93605,
+      "aisle": "Ethnic Foods",
+      "image": "chili-paste.png",
+      "consistency": "SOLID",
+      "name": "curry paste",
+      "nameClean": "red curry paste",
+      "original": "1 teaspoon of Curry",
+      "originalName": "Curry",
+      "amount": 1.0,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "garlic cloves",
+      "nameClean": "garlic",
+      "original": "2 garlic cloves",
+      "originalName": "garlic cloves",
+      "amount": 2.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11216,
+      "aisle": "Produce;Ethnic Foods;Spices and Seasonings",
+      "image": "ginger.png",
+      "consistency": "SOLID",
+      "name": "ginger",
+      "nameClean": "ginger",
+      "original": "Small piece of Chopped ginger",
+      "originalName": "Small of Chopped ginger",
+      "amount": 1.0,
+      "unit": "piece",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 16091,
+      "aisle": "Nuts;Savory Snacks",
+      "image": "peanuts.png",
+      "consistency": "SOLID",
+      "name": "groundnut",
+      "nameClean": "peanuts",
+      "original": "1 cup of groundnut (Blended) or 1 Cooking spoon of peanut Butter",
+      "originalName": "groundnut (Blended) or 1 Cooking spoon of peanut Butter",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [
+        "(Blended)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "SOLID",
+      "name": "onions",
+      "nameClean": "onion",
+      "original": "2 handfuls of Chopped onions",
+      "originalName": "Chopped onions",
+      "amount": 2.0,
+      "unit": "handfuls",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "handfuls",
+          "unitLong": "handfuls"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "handfuls",
+          "unitLong": "handfuls"
+        }
+      }
+    },
+    {
+      "id": 10211821,
+      "aisle": "Produce",
+      "image": "bell-pepper-orange.png",
+      "consistency": "SOLID",
+      "name": "bell pepper",
+      "nameClean": "bell pepper",
+      "original": "Pepper",
+      "originalName": "Pepper",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "SOLID",
+      "name": "salt",
+      "nameClean": "table salt",
+      "original": "Salt",
+      "originalName": "Salt",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 1042027,
+      "aisle": null,
+      "image": "seasoning.png",
+      "consistency": "SOLID",
+      "name": "seasoning",
+      "nameClean": "seasoning",
+      "original": "Seasoning",
+      "originalName": "Seasoning",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 11507,
+      "aisle": "Produce",
+      "image": "sweet-potato.png",
+      "consistency": "SOLID",
+      "name": "sweet potato",
+      "nameClean": "sweet potato",
+      "original": "1/2 small sweet potato (Chopped)",
+      "originalName": "sweet potato (Chopped)",
+      "amount": 0.5,
+      "unit": "small",
+      "meta": [
+        "chopped",
+        "()"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "small",
+          "unitLong": "smalls"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "small",
+          "unitLong": "smalls"
+        }
+      }
+    },
+    {
+      "id": 2049,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "thyme.jpg",
+      "consistency": "SOLID",
+      "name": "thyme",
+      "nameClean": "thyme",
+      "original": "Pinch of thyme",
+      "originalName": "Pinch of thyme",
+      "amount": 1.0,
+      "unit": "pinch",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "pinch",
+          "unitLong": "pinch"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "pinch",
+          "unitLong": "pinch"
+        }
+      }
+    },
+    {
+      "id": 11529,
+      "aisle": "Produce",
+      "image": "tomato.png",
+      "consistency": "SOLID",
+      "name": "tomato",
+      "nameClean": "tomato",
+      "original": "1 Chopped small tomato",
+      "originalName": "Chopped small tomato",
+      "amount": 1.0,
+      "unit": "small",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "small",
+          "unitLong": "small"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "small",
+          "unitLong": "small"
+        }
+      }
+    },
+    {
+      "id": 11529,
+      "aisle": "Produce",
+      "image": "tomato.png",
+      "consistency": "SOLID",
+      "name": "tomato",
+      "nameClean": "tomato",
+      "original": "1.5 Cooking spoons of Blended tomato",
+      "originalName": "Cooking spoons of Blended tomato",
+      "amount": 1.5,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.5,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    }
+  ],
+  "id": 716268,
+  "title": "African Chicken Peanut Stew",
+  "readyInMinutes": 45,
+  "servings": 1,
+  "sourceUrl": "http://www.afrolems.com/2014/03/18/african-chicken-peanut-stew-recipe/",
+  "image": "https://spoonacular.com/recipeImages/716268-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Need a <b>gluten free and dairy free main course</b>? African Chicken Peanut Stew could be a tremendous recipe to try. This recipe makes 1 servings with <b>1377 calories</b>, <b>75g of protein</b>, and <b>102g of fat</b> each. For <b>$3.87 per serving</b>, this recipe <b>covers 62%</b> of your daily requirements of vitamins and minerals. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. 124 people have tried and liked this recipe. Head to the store and pick up bell peppers, tomato, pepper, and a few other things to make it today. To use up the tomato you could follow this main course with the <a href=\"https://spoonacular.com/recipes/pink-peony-popcorn-balls-129348\">Pink Peony Popcorn Balls</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 99%</b>. This score is super. Try <a href=\"https://spoonacular.com/recipes/african-chicken-peanut-stew-245461\">African Chicken Peanut Stew</a>, <a href=\"https://spoonacular.com/recipes/west-african-peanut-chicken-stew-163315\">West African Peanut-Chicken Stew</a>, and <a href=\"https://spoonacular.com/recipes/one-pot-african-peanut-stew-854978\">One-Pot African Peanut Stew</a> for similar recipes.",
+  "cuisines": [
+    "African"
+  ],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free"
+  ],
+  "occasions": [
+    "fall",
+    "winter"
+  ],
+  "winePairing": {
+    "pairedWines": [
+      "pinotage",
+      "chenin blanc",
+      "riesling"
+    ],
+    "pairingText": "Pinotage, Chenin Blanc, and Riesling are great choices for African. The best wine for African dishes will depend on the dish, but a fruity, aromatic white wine is a safe bet for spicy dishes while pinotage would be a traditional match for South African cuisine. You could try Graham Beck Game Reserve Pinotage. Reviewers quite like it with a 4.1 out of 5 star rating and a price of about 19 dollars per bottle.",
+    "productMatches": [
+      {
+        "id": 457662,
+        "title": "Graham Beck Game Reserve Pinotage",
+        "description": "A 'proudly South African' cultivar exhibiting aromas of ripe cherry, strawberries and plums with ripe red berry fruit and spices on the palate. This full structured and well balanced wine rewards with a juicy but elegant mouthfeel and silky soft tannins. \nEnjoy with slow-cooked casseroles, fillet, pastas, robust cheeses or a good old fashioned barbeque.",
+        "price": "$18.99",
+        "imageUrl": "https://spoonacular.com/productImages/457662-312x231.jpg",
+        "averageRating": 0.82,
+        "ratingCount": 6.0,
+        "score": 0.7673684210526315,
+        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fgraham-beck-game-reserve-pinotage-2013%2F148292"
+      }
+    ]
+  },
+  "instructions": "Season and Boil the Chicken for 10 minutes with salt, pepper, seasoning, a handful of onions.Once the chicken is ready, in the same stock, Boil the chopped sweet potatoes till its almost cooked. Save the stock in a separate Bowl and the chicken and potatoes in a separate Bowl as well.In a pot, heat up one cooking spoon of oil and fry the chicken till it Browns. Take it out and heat up the other 1.5 cooking spoons of oil and fry the onions, tomatoes Both chopped and Blended, ginger and garlic.Add your seasoning, curry, thyme, parsley, salt and pepper to the pot.Pour in your stock, chicken and potatoes to cook further.Stir in your peanut Butter and allow to cook for 10 minutes on low heat.If your sauce gets too thick, add a little water to it. Serve with white rice or more sweet potatoes.You could also garnish the dish with Bell peppers.   ",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Season and Boil the Chicken for 10 minutes with salt, pepper, seasoning, a handful of onions.Once the chicken is ready, in the same stock, Boil the chopped sweet potatoes till its almost cooked. Save the stock in a separate Bowl and the chicken and potatoes in a separate Bowl as well.In a pot, heat up one cooking spoon of oil and fry the chicken till it Browns. Take it out and heat up the other 1.5 cooking spoons of oil and fry the onions, tomatoes Both chopped and Blended, ginger and garlic.",
+          "ingredients": [
+            {
+              "id": 11507,
+              "name": "sweet potato",
+              "localizedName": "sweet potato",
+              "image": "sweet-potato.png"
+            },
+            {
+              "id": 1042027,
+              "name": "seasoning",
+              "localizedName": "seasoning",
+              "image": "seasoning.png"
+            },
+            {
+              "id": 11352,
+              "name": "potato",
+              "localizedName": "potato",
+              "image": "potatoes-yukon-gold.png"
+            },
+            {
+              "id": 11529,
+              "name": "tomato",
+              "localizedName": "tomato",
+              "image": "tomato.png"
+            },
+            {
+              "id": 5006,
+              "name": "whole chicken",
+              "localizedName": "whole chicken",
+              "image": "whole-chicken.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 11216,
+              "name": "ginger",
+              "localizedName": "ginger",
+              "image": "ginger.png"
+            },
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            },
+            {
+              "id": 1002030,
+              "name": "pepper",
+              "localizedName": "pepper",
+              "image": "pepper.jpg"
+            },
+            {
+              "id": 1006615,
+              "name": "stock",
+              "localizedName": "stock",
+              "image": "chicken-broth.png"
+            },
+            {
+              "id": 2047,
+              "name": "salt",
+              "localizedName": "salt",
+              "image": "salt.jpg"
+            },
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            },
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ],
+          "length": {
+            "number": 10,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 2,
+          "step": "Add your seasoning, curry, thyme, parsley, salt and pepper to the pot.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 1042027,
+              "name": "seasoning",
+              "localizedName": "seasoning",
+              "image": "seasoning.png"
+            },
+            {
+              "id": 11297,
+              "name": "parsley",
+              "localizedName": "parsley",
+              "image": "parsley.jpg"
+            },
+            {
+              "id": 2015,
+              "name": "curry powder",
+              "localizedName": "curry powder",
+              "image": "curry-powder.jpg"
+            },
+            {
+              "id": 2049,
+              "name": "thyme",
+              "localizedName": "thyme",
+              "image": "thyme.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Pour in your stock, chicken and potatoes to cook further.Stir in your peanut Butter and allow to cook for 10 minutes on low heat.If your sauce gets too thick, add a little water to it.",
+          "ingredients": [
+            {
+              "id": 16098,
+              "name": "peanut butter",
+              "localizedName": "peanut butter",
+              "image": "peanut-butter.png"
+            },
+            {
+              "id": 11352,
+              "name": "potato",
+              "localizedName": "potato",
+              "image": "potatoes-yukon-gold.png"
+            },
+            {
+              "id": 5006,
+              "name": "whole chicken",
+              "localizedName": "whole chicken",
+              "image": "whole-chicken.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            },
+            {
+              "id": 1006615,
+              "name": "stock",
+              "localizedName": "stock",
+              "image": "chicken-broth.png"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 10,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Serve with white rice or more sweet potatoes.You could also garnish the dish with Bell peppers.   ",
+          "ingredients": [
+            {
+              "id": 11507,
+              "name": "sweet potato",
+              "localizedName": "sweet potato",
+              "image": "sweet-potato.png"
+            },
+            {
+              "id": 10211821,
+              "name": "bell pepper",
+              "localizedName": "bell pepper",
+              "image": "bell-pepper-orange.png"
+            },
+            {
+              "id": 10220444,
+              "name": "white rice",
+              "localizedName": "white rice",
+              "image": "uncooked-white-rice.png"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/african-chicken-peanut-stew-716268"
+}
