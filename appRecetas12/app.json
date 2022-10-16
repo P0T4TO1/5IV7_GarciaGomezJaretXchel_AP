@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "appRecetas12",
-    "slug": "appRecetas12",
+    "name": "Recetas App",
+    "slug": "recetas-app",
+    "description": "My recipes app con api en Ingles robada",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon-pot.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,16 +19,23 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.p0t4to11.recetasapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.p0t4to11.recetasapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6c62082e-a70d-418a-8655-d9d0bfa53895"
+      }
     }
   }
 }

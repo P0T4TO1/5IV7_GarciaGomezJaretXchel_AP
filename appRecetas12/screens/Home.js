@@ -11,11 +11,7 @@ function Home () {
     },[]);
 
     const getAllRecipesData = () => {
-        fetch(`${recipeURL}/complexSearch.json`,
-            {
-                headers:
-                    {'Content-Type': 'application/json','Accept': 'application/json'}
-            })
+        fetch(`${recipeURL}/complexSearch.json`)
             .then((response)=> response.json())
             .then((json) => setData(json.results))
             .catch((error) => console.error(error))

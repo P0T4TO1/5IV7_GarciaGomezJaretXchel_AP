@@ -12,6 +12,7 @@
     "@vitalets/google-translate-api": "^8.0.0",
     "expo": "~46.0.13",
     "expo-status-bar": "~1.4.0",
+    "expo-updates": "~0.14.6",
     "native-base": "^3.4.18",
     "querystring-es3": "^0.2.1",
     "react": "18.0.0",
