@@ -5,12 +5,13 @@ import {Link} from "react-router-native";
 
 function Home () {
     const [data, setData] = useState([]);
+    const recipeURL = "https://p0t4to1.github.io/5IV7_GarciaGomezJaretXchel_AP/recipe-json"
     useEffect(() => {
         getAllRecipesData()
     },[]);
 
     const getAllRecipesData = () => {
-        fetch("recipe-json/complexSearch.json",
+        fetch(`${recipeURL}/complexSearch.json`,
             {
                 headers:
                     {'Content-Type': 'application/json','Accept': 'application/json'}
