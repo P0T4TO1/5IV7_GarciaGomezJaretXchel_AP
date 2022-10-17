@@ -1,8 +1,7 @@
 import {
     Actionsheet,
     AspectRatio,
-    Box,
-    Button,
+    Box, Button,
     Center,
     Heading,
     HStack,
@@ -13,8 +12,7 @@ import {
     ScrollView,
     Stack,
     StatusBar,
-    Text,
-    useDisclose,
+    Text, useDisclose,
     View
 } from 'native-base';
 import React, {useEffect, useState} from "react";
@@ -22,7 +20,7 @@ import MaterialIcons from "react-native-vector-icons/MaterialIcons";
 import {Link, useNavigate} from "react-router-native";
 
 
-function Home() {
+function AllDogsScreen (){
     const {
         isOpen,
         onOpen,
@@ -30,19 +28,12 @@ function Home() {
     } = useDisclose();
     const navigate = useNavigate();
     const [dogsData, setDogsData] = useState([]);
-    const [catsData, setCatsData] = useState([]);
+    const [dogs2Data, setDogs2Data] = useState([]);
     const urlData = "https://p0t4to1.github.io/5IV7_GarciaGomezJaretXchel_AP/adoption-jsons";
     useEffect(() => {
-        getCatsData();
         getDogsData();
+        getDogsPage2Data();
     }, [])
-
-    const getCatsData = async () => {
-        await fetch(`${urlData}/cats.json`)
-            .then((response) => response.json())
-            .then((json) => setCatsData(json.animals))
-            .catch((error) => console.log(error))
-    }
 
     const getDogsData = async () => {
         await fetch(`${urlData}/dogs.json`)
@@ -51,13 +42,14 @@ function Home() {
             .catch((error) => console.log(error))
     }
 
-    const [images, setImages] = React.useState([
-        "https://source.unsplash.com/1024x768/?nature",
-        "https://source.unsplash.com/1024x768/?water",
-        "https://source.unsplash.com/1024x768/?tree",
-    ]);
+    const getDogsPage2Data = async () => {
+        await fetch(`${urlData}/dogpage2.json`)
+            .then((response) => response.json())
+            .then((json) => setDogs2Data(json.animals))
+            .catch((error) => console.log(error))
+    }
 
-    return (
+    return(
         <NativeBaseProvider>
             <View style={{flex: 1}}>
                 <Center>
@@ -65,14 +57,15 @@ function Home() {
                     <Box safeAreaTop bg="violet.600"/>
                     <HStack bg="violet.500" px="1" py="3" justifyContent="space-between" alignItems="center" w="100%">
                         <HStack alignItems="center">
+                            <IconButton onPress={()=>{navigate("/")}}
+                                        icon={<Icon as={MaterialIcons} name="keyboard-backspace" size="sm" color="white"/>}/>
                             <Text color="white" fontSize="20" fontWeight="bold" ml="5">
                                 Adopt a Friend
                             </Text>
                         </HStack>
                         <HStack>
                             <Center>
-                                <IconButton onPress={onOpen}
-                                            icon={<Icon as={MaterialIcons} name="menu" size="sm" color="white"/>}/>
+                                <IconButton onPress={onOpen} icon={<Icon as={MaterialIcons} name="menu" size="sm" color="white"/>}/>
                                 <Actionsheet isOpen={isOpen} onClose={onClose}>
                                     <Actionsheet.Content>
                                         <Actionsheet.Item onPress={()=>{
@@ -88,21 +81,11 @@ function Home() {
                     </HStack>
                 </Center>
                 <ScrollView>
-                    <Box alignItems="center" mt="10">
-                        <HStack space={3} justifyContent="center">
-                            <Button onPress={()=>{
-                                navigate("/all-dogs")
-                            }}>See all dogs</Button>
-                            <Button onPress={()=>{
-                                navigate("/all-cats")
-                            }}>See all cats</Button>
-                        </HStack>
-                    </Box>
-                    {catsData.slice(0, 5).map(({type, age, gender, name, photos, contact}) => {
+                    {dogsData.map(({type, age, gender, name, photos, contact}) => {
                         return (
                             <Box alignItems="center" mt="20">
                                 <Link>
-                                    <Box maxW="350" rounded="lg" overflow="hidden" borderColor="coolGray.200"
+                                    <Box maxW="350" minW="300" rounded="lg" overflow="hidden" borderColor="coolGray.200"
                                          borderWidth="1" _dark={{
                                         borderColor: "coolGray.600",
                                         backgroundColor: "gray.700"
@@ -175,7 +158,7 @@ function Home() {
                             </Box>
                         )
                     })}
-                    {dogsData.slice(0, 5).map(({type, age, gender, name, photos, contact}) => {
+                    {dogs2Data.map(({type, age, gender, name, photos, contact}) => {
                         return (
                             <Box alignItems="center" mt="20">
                                 <Link>
@@ -258,5 +241,4 @@ function Home() {
     )
 }
 
-
-export default Home;
+export default AllDogsScreen;
