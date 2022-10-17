@@ -1,0 +1,1378 @@
+{
+  "animals": [
+    {
+      "id": 58559026,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/hannah-58559026\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Hannah",
+      "description": "Sweet kitten - Rescued from a kill shelter with \u0026amp;#39;siblings\u0026amp;#39; Hailey and Hank",
+      "organization_animal_id": "18635811",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559026"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559027,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/tubby-58559027\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tubby",
+      "description": "super sweet kitten - I was rescued with my siblings from an overcrowded kill shelter",
+      "organization_animal_id": "18635805",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559027"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559028,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/london-58559028\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "London",
+      "description": "Adorable boy - Rescued from a kill shelter infested with fleas",
+      "organization_animal_id": "18635819",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559028"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559030,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/tucker-58559030\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tucker",
+      "description": "Super outgoing kitten - Tucker and his mom and siblings were rescued from a crowded shelter that euthanizes for space",
+      "organization_animal_id": "18635801",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559030"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559031,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/opal-58559031\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Opal",
+      "description": "Opal is a super sweet kitten - Opal and her mom and siblngs were rescued from a crowded shelter that...",
+      "organization_animal_id": "18635803",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559031"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559032,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/pauline-58559032\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Pauline",
+      "description": "super fun kitten - My mom was very pregnant and was rescued from a crowded kill shelter. I was born...",
+      "organization_animal_id": "18635815",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559032"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559033,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/madison-58559033\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Madison",
+      "description": "beautiful brown and white tabby kitten - I was rescused with my siblings from a crowded kill shelter",
+      "organization_animal_id": "18635818",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559033"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559037,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/clementine-58559037\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Clementine",
+      "description": "Super cute mom who is now an empty nester - Clementine was rescued from a crowded kill shelter. She was...",
+      "organization_animal_id": "18635807",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559037"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559041,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/stella-58559041\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Stella",
+      "description": "Super sweet girl with one foot with white toes - Stella was a bottle baby who was adopted and returned...",
+      "organization_animal_id": "18635823",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559041"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559042,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/pudgely-58559042\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Dilute Calico",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Pudgely",
+      "description": "sweet petite kitten - I was rescued with my siblings from an overcrowded kill shelter",
+      "organization_animal_id": "18635806",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559042"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559043,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/eden-58559043\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Eden",
+      "description": "Snow white isn\u0026amp;#39;t as pretty as this kitten - Eden and siblings were rescued from a kill shelter",
+      "organization_animal_id": "18635812",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559043"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559044,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/max-58559044\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tuxedo",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Max",
+      "description": "Max and his sister were rescued from a overcrowded county shelter.",
+      "organization_animal_id": "18635789",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559044"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559045,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/ollie-58559045\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": "Russian Blue",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Ollie",
+      "description": "Super sweet boy! - Ollie was left at the vet\u0026amp;#39;s office when his owner did not want to pay for...",
+      "organization_animal_id": "18635795",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559045"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559050,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/rowland-58559050\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Siamese",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Rowland",
+      "description": "I\u0026amp;#39;m a super sweet boy that gets along well with others but needs a home without kids or other pets...",
+      "organization_animal_id": "18635808",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559050"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559051,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/faith-58559051\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Faith",
+      "description": "One eyed sweetie - Rescued from a crowded kill shelter",
+      "organization_animal_id": "18635817",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559051"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559054,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/julia-58559054\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Julia",
+      "description": "Buff and white social kitten - Julia with mom Jazzy and siblings Jillian, Julian were rescued from an overcrowded kill...",
+      "organization_animal_id": "18635798",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559054"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559055,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/sybil-58559055\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Sybil",
+      "description": "Quiet plump girl who has been let down by humans - I was adopted as a kitten from a kill...",
+      "organization_animal_id": "18635804",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559055"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559056,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/liam-58559056\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Liam",
+      "description": "Totally adorable young bachelor - I was rescued from a kill shelter",
+      "organization_animal_id": "18635816",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559056"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559059,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/katori-58559059\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Katori",
+      "description": "Gorgeous girl who lost a leg and part of her tongue due to being hit by a car - Katori...",
+      "organization_animal_id": "18635794",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559059"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    },
+    {
+      "id": 58559062,
+      "organization_id": "KY382",
+      "url": "https:\/\/www.petfinder.com\/cat\/nora-58559062\/ky\/louisville\/kentucky-pets-alive-ky382\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Nora",
+      "description": "orange - My siblings and I were saved from a crowded kill shelter",
+      "organization_animal_id": "18635813",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:06:09+0000",
+      "published_at": "2022-10-17T06:06:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "kentuckypetsalive@gmail.com",
+        "phone": "(502) 777-2968",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40299",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559062"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky382"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 132886,
+    "current_page": 2,
+    "total_pages": 6645,
+    "_links": {
+      "previous": {
+        "href": "\/v2\/animals?page=1\u0026type=cat"
+      },
+      "next": {
+        "href": "\/v2\/animals?page=3\u0026type=cat"
+      }
+    }
+  }
+}

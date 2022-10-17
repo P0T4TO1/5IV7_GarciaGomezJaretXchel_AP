@@ -1,0 +1,1981 @@
+{
+  "animals": [
+    {
+      "id": 58559147,
+      "organization_id": "CA864",
+      "url": "https:\/\/www.petfinder.com\/dog\/cooper-58559147\/ca\/los-angeles\/bichons-and-buddies-ca864\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cooper",
+      "description": "Cooper is a big handsome easy going Terrier mix. He\u0026amp;#39;s 90 lbs of sweetness! He\u0026amp;#39;s a mix of a hairless...",
+      "organization_animal_id": "18635846-A5493522",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:22:28+0000",
+      "published_at": "2022-10-17T07:22:28+0000",
+      "distance": null,
+      "contact": {
+        "email": "jc@bichonsandbuddies.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Angeles",
+          "state": "CA",
+          "postcode": "90066",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559147"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca864"
+        }
+      }
+    },
+    {
+      "id": 58559146,
+      "organization_id": "CA2072",
+      "url": "https:\/\/www.petfinder.com\/dog\/shaka-58559146\/ca\/el-cajon\/lionels-legacy-ca2072\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "American Staffordshire Terrier",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Shaka",
+      "description": "Shaka is a sweet girl who loves to make new friends wherever she goes (especially if you have treats!) and...",
+      "organization_animal_id": "D2022063",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:21:45+0000",
+      "published_at": "2022-10-17T07:21:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "seniors@lionelslegacy.org",
+        "phone": "619-212-5623  ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "El Cajon",
+          "state": "CA",
+          "postcode": "92020",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559146"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2072"
+        }
+      }
+    },
+    {
+      "id": 58559145,
+      "organization_id": "CA1356",
+      "url": "https:\/\/www.petfinder.com\/dog\/antenna-58559145\/ca\/san-diego\/the-barking-lot-rescue-ca1356\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": "Boxer",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Antenna",
+      "description": "DOB: September 2019\nWeight: 30lbs\nDisposition: Thoughtful, Calm, Sweet\nFrom: Southern California shelter where she had been found as a...",
+      "organization_animal_id": "CLX A092422",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:21:33+0000",
+      "published_at": "2022-10-17T07:21:33+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@thebarkinglot.net",
+        "phone": "(619) 354-4825",
+        "address": {
+          "address1": "486 Raleigh Ave",
+          "address2": null,
+          "city": "San Diego",
+          "state": "CA",
+          "postcode": "92117",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559145"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca1356"
+        }
+      }
+    },
+    {
+      "id": 58559144,
+      "organization_id": "PA1031",
+      "url": "https:\/\/www.petfinder.com\/cat\/rosie-58559144\/pa\/greensburg\/ninth-life-rescue-center-pa1031\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown \/ Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": true,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Playful",
+        "Curious",
+        "shy",
+        "sweet"
+      ],
+      "name": "Rosie",
+      "description": "Hi I\u2019m Rosie! I had a tough life outside before I was rescued with my brother, Sam, so I\u2019m shy...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/2\/?bust=1665991229\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/2\/?bust=1665991229\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/2\/?bust=1665991229\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/2\/?bust=1665991229"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/3\/?bust=1665991230\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/3\/?bust=1665991230\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/3\/?bust=1665991230\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/3\/?bust=1665991230"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/4\/?bust=1665991231\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/4\/?bust=1665991231\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/4\/?bust=1665991231\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/4\/?bust=1665991231"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/5\/?bust=1665991232\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/5\/?bust=1665991232\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/5\/?bust=1665991232\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/5\/?bust=1665991232"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/6\/?bust=1665991234\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/6\/?bust=1665991234\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/6\/?bust=1665991234\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/6\/?bust=1665991234"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559144\/1\/?bust=1665991227"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:20:36+0000",
+      "published_at": "2022-10-17T07:20:36+0000",
+      "distance": null,
+      "contact": {
+        "email": "ninthliferescue@outlook.com",
+        "phone": "(724) 217-4257",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Greensburg",
+          "state": "PA",
+          "postcode": "15601",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559144"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa1031"
+        }
+      }
+    },
+    {
+      "id": 58559142,
+      "organization_id": "PA1031",
+      "url": "https:\/\/www.petfinder.com\/cat\/sam-fellow-58559142\/pa\/greensburg\/ninth-life-rescue-center-pa1031\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown \/ Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": true,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Curious",
+        "Playful",
+        "anxious ",
+        "shy"
+      ],
+      "name": "Sam Fellow",
+      "description": "Hi, I\u2019m Sam! My sister Rosie and I had a difficult life outside before we were rescued, so I\u2019m very...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/2\/?bust=1665990881\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/2\/?bust=1665990881\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/2\/?bust=1665990881\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/2\/?bust=1665990881"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/3\/?bust=1665990882\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/3\/?bust=1665990882\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/3\/?bust=1665990882\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/3\/?bust=1665990882"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/4\/?bust=1665990883\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/4\/?bust=1665990883\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/4\/?bust=1665990883\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/4\/?bust=1665990883"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/5\/?bust=1665990885\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/5\/?bust=1665990885\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/5\/?bust=1665990885\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/5\/?bust=1665990885"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/6\/?bust=1665990886\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/6\/?bust=1665990886\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/6\/?bust=1665990886\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/6\/?bust=1665990886"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559142\/1\/?bust=1665990879"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:14:48+0000",
+      "published_at": "2022-10-17T07:14:48+0000",
+      "distance": null,
+      "contact": {
+        "email": "ninthliferescue@outlook.com",
+        "phone": "(724) 217-4257",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Greensburg",
+          "state": "PA",
+          "postcode": "15601",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559142"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa1031"
+        }
+      }
+    },
+    {
+      "id": 58559141,
+      "organization_id": "IN354",
+      "url": "https:\/\/www.petfinder.com\/dog\/duke-58559141\/in\/jeffersonville\/southern-indiana-animal-rescue-in354\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Great Dane",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray \/ Blue \/ Silver",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Extra Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Playful",
+        "Smart",
+        "Athletic",
+        "Funny"
+      ],
+      "name": "Duke",
+      "description": "Meet Duke! A 2 yr old Great Dane that is underweight at 121lbs. He\u2019s such a good boy that thinks...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/2\/?bust=1665990662\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/2\/?bust=1665990662\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/2\/?bust=1665990662\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/2\/?bust=1665990662"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/3\/?bust=1665990663\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/3\/?bust=1665990663\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/3\/?bust=1665990663\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/3\/?bust=1665990663"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559141\/1\/?bust=1665990660"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:11:05+0000",
+      "published_at": "2022-10-17T07:11:05+0000",
+      "distance": null,
+      "contact": {
+        "email": "SouthernIndianaAnimalRescue@gmail.com",
+        "phone": "(502) 974-8226",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Jeffersonville",
+          "state": "IN",
+          "postcode": "47130",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559141"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/in354"
+        }
+      }
+    },
+    {
+      "id": 58559129,
+      "organization_id": "PA1031",
+      "url": "https:\/\/www.petfinder.com\/cat\/nick-58559129\/pa\/greensburg\/ninth-life-rescue-center-pa1031\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray \/ Blue \/ Silver",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Quiet",
+        "Independent",
+        "cautious ",
+        "shy"
+      ],
+      "name": "Nick",
+      "description": "Hi there.  My name is Nick. I was named after the great Nick Fury who also had a little issue...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/2\/?bust=1665990171\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/2\/?bust=1665990171\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/2\/?bust=1665990171\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/2\/?bust=1665990171"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/3\/?bust=1665990173\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/3\/?bust=1665990173\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/3\/?bust=1665990173\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/3\/?bust=1665990173"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/4\/?bust=1665990174\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/4\/?bust=1665990174\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/4\/?bust=1665990174\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/4\/?bust=1665990174"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/5\/?bust=1665990176\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/5\/?bust=1665990176\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/5\/?bust=1665990176\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/5\/?bust=1665990176"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559129\/1\/?bust=1665990170"
+      },
+      "videos": [
+        {
+          "embed": "\u003Ciframe title=\u0022Video\u0022 frameborder=\u00220\u0022 allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen name=\u0022vidly-frame\u0022 src=\u0022https:\/\/s.vid.ly\/embeded.html?link=x4n2p0\u0026autoplay=false\u0022\u003E\u003Ca target=\u0022_blank\u0022 href=\u0022https:\/\/vid.ly\/x4n2p0\u0022\u003E\u003Cimg src=\u0022https:\/\/cf.cdn.vid.ly\/x4n2p0\/poster.jpg\u0022 \/\u003E\u003C\/a\u003E\u003C\/iframe\u003E"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:03:03+0000",
+      "published_at": "2022-10-17T07:03:03+0000",
+      "distance": null,
+      "contact": {
+        "email": "ninthliferescue@outlook.com",
+        "phone": "(724) 217-4257",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Greensburg",
+          "state": "PA",
+          "postcode": "15601",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559129"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa1031"
+        }
+      }
+    },
+    {
+      "id": 58559128,
+      "organization_id": "WA728",
+      "url": "https:\/\/www.petfinder.com\/dog\/bert-58559128\/wa\/puyallup\/casa-dog-wa728\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pug",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Bert ",
+      "description": "Bert is 10 weeks old. To be neutered at NW spay and neuter. Rescued in Cabo. Arrives 10\/17\n\nMore info...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559128\/1\/?bust=1665990081"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:01:22+0000",
+      "published_at": "2022-10-17T07:01:22+0000",
+      "distance": null,
+      "contact": {
+        "email": "Casadogrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Puyallup",
+          "state": "WA",
+          "postcode": "98375",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559128"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/wa728"
+        }
+      }
+    },
+    {
+      "id": 58559127,
+      "organization_id": "CA2719",
+      "url": "https:\/\/www.petfinder.com\/cat\/doritos-58559127\/ca\/la-jolla\/the-cat-lounge-rescue-and-adoption-center-ca2719\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Siamese",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Doritos",
+      "description": "Doritos was rescued from Tijuana! This old man is sweet as pie and so ready to have a new home....",
+      "organization_animal_id": "A20-675",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T07:00:15+0000",
+      "published_at": "2022-10-17T07:00:15+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@thecatlounge.org",
+        "phone": "(858) 886-7083",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "La Jolla",
+          "state": "CA",
+          "postcode": "92037",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559127"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2719"
+        }
+      }
+    },
+    {
+      "id": 58559126,
+      "organization_id": "WA728",
+      "url": "https:\/\/www.petfinder.com\/dog\/ernie-58559126\/wa\/puyallup\/casa-dog-wa728\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pug",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Ernie",
+      "description": "Ernie is 10 weeks old. To be neutered at NW spay and neuter. Rescued in Cabo.  Arrives 10\/17 \n\nMore info...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559126\/1\/?bust=1665989963"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:59:25+0000",
+      "published_at": "2022-10-17T06:59:25+0000",
+      "distance": null,
+      "contact": {
+        "email": "Casadogrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Puyallup",
+          "state": "WA",
+          "postcode": "98375",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559126"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/wa728"
+        }
+      }
+    },
+    {
+      "id": 58559122,
+      "organization_id": "PA1031",
+      "url": "https:\/\/www.petfinder.com\/cat\/pazazz-58559122\/pa\/greensburg\/ninth-life-rescue-center-pa1031\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Playful",
+        "Curious",
+        "Quiet",
+        "Smart",
+        "cautious",
+        "shy"
+      ],
+      "name": "Pazazz",
+      "description": "This is Pazazz!   She and her siblings were brought in to rescue when they were a little bit older and...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/2\/?bust=1665989731\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/2\/?bust=1665989731\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/2\/?bust=1665989731\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/2\/?bust=1665989731"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/3\/?bust=1665989732\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/3\/?bust=1665989732\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/3\/?bust=1665989732\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/3\/?bust=1665989732"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/4\/?bust=1665989733\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/4\/?bust=1665989733\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/4\/?bust=1665989733\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/4\/?bust=1665989733"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/5\/?bust=1665989735\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/5\/?bust=1665989735\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/5\/?bust=1665989735\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/5\/?bust=1665989735"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/6\/?bust=1665989736\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/6\/?bust=1665989736\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/6\/?bust=1665989736\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/6\/?bust=1665989736"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559122\/1\/?bust=1665989729"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:55:38+0000",
+      "published_at": "2022-10-17T06:55:38+0000",
+      "distance": null,
+      "contact": {
+        "email": "ninthliferescue@outlook.com",
+        "phone": "(724) 217-4257",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Greensburg",
+          "state": "PA",
+          "postcode": "15601",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559122"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa1031"
+        }
+      }
+    },
+    {
+      "id": 58559119,
+      "organization_id": "TX1660",
+      "url": "https:\/\/www.petfinder.com\/dog\/william-58559119\/tx\/justin\/apollo-support-and-rescue-tx1660\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+        "secondary": "White \/ Cream",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Affectionate",
+        "Friendly",
+        "Playful"
+      ],
+      "name": "William",
+      "description": "Hi my name is William and I\u0026#039;m a 6 lb ball of love! I love to cuddle snuggle and give...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559119\/1\/?bust=1665989623"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:53:44+0000",
+      "published_at": "2022-10-17T06:53:44+0000",
+      "distance": null,
+      "contact": {
+        "email": "Inquire@Apollosupportandrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "1170 Dove Hill Rd",
+          "address2": null,
+          "city": "Justin",
+          "state": "TX",
+          "postcode": "76247",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559119"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/tx1660"
+        }
+      }
+    },
+    {
+      "id": 58559118,
+      "organization_id": "KY105",
+      "url": "https:\/\/www.petfinder.com\/cat\/wilbur-and-charlotte-58559118\/ky\/louisville\/shamrock-pet-foundation-inc-ky105\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Playful"
+      ],
+      "name": "Wilbur and Charlotte",
+      "description": "Charlotte and Wilbur\nBlack \nFemale and Male\nKittens - Approx 3-4 Months\nCan be adopted together or as pair\nExtremely...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/2\/?bust=1665989488\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/2\/?bust=1665989488\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/2\/?bust=1665989488\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/2\/?bust=1665989488"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559118\/1\/?bust=1665989487"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:51:55+0000",
+      "published_at": "2022-10-17T06:51:55+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@shamrockpets.com",
+        "phone": "(502) 585-3220",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40224",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559118"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky105"
+        }
+      }
+    },
+    {
+      "id": 58559116,
+      "organization_id": "PA1031",
+      "url": "https:\/\/www.petfinder.com\/cat\/fizz-ee-58559116\/pa\/greensburg\/ninth-life-rescue-center-pa1031\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Playful",
+        "Curious",
+        "Quiet",
+        "Gentle",
+        "shy"
+      ],
+      "name": "Fizz ee",
+      "description": "This is Fizz ee!  He and his siblings were brought in to rescue when they were a little bit older...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/2\/?bust=1665989322\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/2\/?bust=1665989322\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/2\/?bust=1665989322\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/2\/?bust=1665989322"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/3\/?bust=1665989324\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/3\/?bust=1665989324\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/3\/?bust=1665989324\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/3\/?bust=1665989324"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/4\/?bust=1665989325\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/4\/?bust=1665989325\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/4\/?bust=1665989325\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/4\/?bust=1665989325"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/5\/?bust=1665989326\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/5\/?bust=1665989326\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/5\/?bust=1665989326\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/5\/?bust=1665989326"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/6\/?bust=1665989328\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/6\/?bust=1665989328\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/6\/?bust=1665989328\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/6\/?bust=1665989328"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559116\/1\/?bust=1665989321"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:48:49+0000",
+      "published_at": "2022-10-17T06:48:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "ninthliferescue@outlook.com",
+        "phone": "(724) 217-4257",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Greensburg",
+          "state": "PA",
+          "postcode": "15601",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559116"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa1031"
+        }
+      }
+    },
+    {
+      "id": 58559112,
+      "organization_id": "GA821",
+      "url": "https:\/\/www.petfinder.com\/cat\/tulip-gorgeous-soft-silky-gentle-loving-attentive-lap-cat-5-month-old-russian-blue-dilute-calico-girl-58559112\/ct\/danbury\/second-hand-siamese-ga821\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Russian Blue",
+        "secondary": "Dilute Calico",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Dilute Calico",
+        "secondary": "Gray \/ Blue \/ Silver",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Sweet",
+        "Loving",
+        "Playful",
+        "Gentle",
+        "Active",
+        "Happy",
+        "Healthy",
+        "Friendly",
+        "Affectionate",
+        "Soft",
+        "Cuddly",
+        "Loyal",
+        "Smart",
+        "Brave",
+        "Curious",
+        "Independent",
+        "Dignified",
+        "Quiet",
+        "Athletic",
+        "Funny",
+        "Loves kisses"
+      ],
+      "name": "TULIP - Gorgeous, Soft, Silky, Gentle, Loving, Attentive, Lap Cat, 5-Month-Old, Russian Blue - Dilute Calico Girl!",
+      "description": "TULIP is an amazing kitty! She is ready for a permanent home.  Would this be with your family???  She is...",
+      "organization_animal_id": "10172207",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/2\/?bust=1665988888\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/2\/?bust=1665988888\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/2\/?bust=1665988888\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/2\/?bust=1665988888"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/3\/?bust=1665988888\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/3\/?bust=1665988888\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/3\/?bust=1665988888\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/3\/?bust=1665988888"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/4\/?bust=1665988889\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/4\/?bust=1665988889\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/4\/?bust=1665988889\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/4\/?bust=1665988889"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/5\/?bust=1665988889\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/5\/?bust=1665988889\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/5\/?bust=1665988889\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/5\/?bust=1665988889"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/6\/?bust=1665988890\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/6\/?bust=1665988890\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/6\/?bust=1665988890\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/6\/?bust=1665988890"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559112\/1\/?bust=1665988887"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:42:02+0000",
+      "published_at": "2022-10-17T06:41:31+0000",
+      "distance": null,
+      "contact": {
+        "email": "secondhandsiamese2@gmail.com",
+        "phone": "9144413239",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Danbury",
+          "state": "CT",
+          "postcode": "06811",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559112"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ga821"
+        }
+      }
+    },
+    {
+      "id": 58559110,
+      "organization_id": "TX1660",
+      "url": "https:\/\/www.petfinder.com\/dog\/frosty-and-lucky-bonded-pair-58559110\/tx\/justin\/apollo-support-and-rescue-tx1660\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pomeranian",
+        "secondary": "Dachshund",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Affectionate",
+        "Friendly",
+        "Playful"
+      ],
+      "name": "Frosty \u0026 Lucky (bonded pair)",
+      "description": "This sweet pair of bonded brothers is ready to find their forever home! Just under 2 years old, these boys...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/2\/?bust=1665988788\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/2\/?bust=1665988788\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/2\/?bust=1665988788\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/2\/?bust=1665988788"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/3\/?bust=1665988789\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/3\/?bust=1665988789\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/3\/?bust=1665988789\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/3\/?bust=1665988789"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/4\/?bust=1665988790\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/4\/?bust=1665988790\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/4\/?bust=1665988790\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/4\/?bust=1665988790"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/5\/?bust=1665988790\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/5\/?bust=1665988790\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/5\/?bust=1665988790\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/5\/?bust=1665988790"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559110\/1\/?bust=1665988786"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:39:52+0000",
+      "published_at": "2022-10-17T06:39:52+0000",
+      "distance": null,
+      "contact": {
+        "email": "Inquire@Apollosupportandrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "1170 Dove Hill Rd",
+          "address2": null,
+          "city": "Justin",
+          "state": "TX",
+          "postcode": "76247",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559110"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/tx1660"
+        }
+      }
+    },
+    {
+      "id": 58559109,
+      "organization_id": "PA1031",
+      "url": "https:\/\/www.petfinder.com\/cat\/joanne-58559109\/pa\/greensburg\/ninth-life-rescue-center-pa1031\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Orange \/ Red",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Quiet",
+        "shy"
+      ],
+      "name": "Joanne",
+      "description": "Joanne is a sweet girl who also happens to be a bit of a special girl being an orange tabby....",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/2\/?bust=1665988711\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/2\/?bust=1665988711\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/2\/?bust=1665988711\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/2\/?bust=1665988711"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/3\/?bust=1665988712\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/3\/?bust=1665988712\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/3\/?bust=1665988712\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/3\/?bust=1665988712"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/4\/?bust=1665988714\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/4\/?bust=1665988714\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/4\/?bust=1665988714\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/4\/?bust=1665988714"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559109\/1\/?bust=1665988709"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:38:35+0000",
+      "published_at": "2022-10-17T06:38:35+0000",
+      "distance": null,
+      "contact": {
+        "email": "ninthliferescue@outlook.com",
+        "phone": "(724) 217-4257",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Greensburg",
+          "state": "PA",
+          "postcode": "15601",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559109"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa1031"
+        }
+      }
+    },
+    {
+      "id": 58559108,
+      "organization_id": "CA2935",
+      "url": "https:\/\/www.petfinder.com\/dog\/ollie-58559108\/ca\/oakland\/a-girls-best-friend-rescue-ca2935\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": "Cattle Dog",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Playful",
+        "Curious",
+        "Athletic",
+        "Loves kisses"
+      ],
+      "name": "Ollie",
+      "description": "Ollie, 10 mo, 55lbs - Pit\/Cattle Dog Mix\n\nBig ol squishy face Ollie is a total snuggle bug. He is...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/2\/?bust=1665988666\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/2\/?bust=1665988666\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/2\/?bust=1665988666\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/2\/?bust=1665988666"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/3\/?bust=1665988667\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/3\/?bust=1665988667\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/3\/?bust=1665988667\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/3\/?bust=1665988667"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/4\/?bust=1665988667\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/4\/?bust=1665988667\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/4\/?bust=1665988667\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/4\/?bust=1665988667"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/5\/?bust=1665988668\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/5\/?bust=1665988668\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/5\/?bust=1665988668\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/5\/?bust=1665988668"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/6\/?bust=1665988669\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/6\/?bust=1665988669\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/6\/?bust=1665988669\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/6\/?bust=1665988669"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559108\/1\/?bust=1665988665"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:37:50+0000",
+      "published_at": "2022-10-17T06:37:50+0000",
+      "distance": null,
+      "contact": {
+        "email": "agbfrescueteam@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Oakland",
+          "state": "CA",
+          "postcode": "94611",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559108"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2935"
+        }
+      }
+    },
+    {
+      "id": 58559107,
+      "organization_id": "CA2384",
+      "url": "https:\/\/www.petfinder.com\/dog\/blitz-58559107\/ca\/ramona\/frosted-faces-foundation-ca2384\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Siberian Husky",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Blitz",
+      "description": "*This is a courtesy listing.*\n\nMeet Blitz!\n\nBlitz was boarded for a year at the Military Mutts boarding facility before...",
+      "organization_animal_id": "18635828",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/2\/?bust=1665989178\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/2\/?bust=1665989178\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/2\/?bust=1665989178\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/2\/?bust=1665989178"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/3\/?bust=1665989180\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/3\/?bust=1665989180\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/3\/?bust=1665989180\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/3\/?bust=1665989180"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559107\/1\/?bust=1665989180"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:35:47+0000",
+      "published_at": "2022-10-17T06:35:47+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@frostedfacesfoundation.org",
+        "phone": "(715) 574-6320",
+        "address": {
+          "address1": "1448 Pine St",
+          "address2": null,
+          "city": "Ramona",
+          "state": "CA",
+          "postcode": "92065",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559107"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2384"
+        }
+      }
+    },
+    {
+      "id": 58559106,
+      "organization_id": "CA2935",
+      "url": "https:\/\/www.petfinder.com\/dog\/ginger-58559106\/ca\/oakland\/a-girls-best-friend-rescue-ca2935\/?referrer_id=58ab2977-dfab-4422-bcbe-265155f4f647",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": "Red \/ Chestnut \/ Orange",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Funny",
+        "Couch potato"
+      ],
+      "name": "Ginger",
+      "description": "Ginger, 6yo, ~60lbs\n\nEveryone meet Ginger! She is a total sweetheart and loves people. Once you\u2019ve given her attention and...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/2\/?bust=1665988452\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/2\/?bust=1665988452\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/2\/?bust=1665988452\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/2\/?bust=1665988452"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/3\/?bust=1665988453\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/3\/?bust=1665988453\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/3\/?bust=1665988453\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/3\/?bust=1665988453"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/4\/?bust=1665988454\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/4\/?bust=1665988454\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/4\/?bust=1665988454\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/4\/?bust=1665988454"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/5\/?bust=1665988455\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/5\/?bust=1665988455\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/5\/?bust=1665988455\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/5\/?bust=1665988455"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/6\/?bust=1665988455\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/6\/?bust=1665988455\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/6\/?bust=1665988455\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/6\/?bust=1665988455"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452\u0026width=300",
+        "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452\u0026width=450",
+        "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452\u0026width=600",
+        "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/58559106\/1\/?bust=1665988452"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-10-17T06:34:17+0000",
+      "published_at": "2022-10-17T06:34:17+0000",
+      "distance": null,
+      "contact": {
+        "email": "agbfrescueteam@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Oakland",
+          "state": "CA",
+          "postcode": "94611",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/58559106"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2935"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 274358,
+    "current_page": 1,
+    "total_pages": 13718,
+    "_links": {
+      "next": {
+        "href": "\/v2\/animals?page=2"
+      }
+    }
+  }
+}
